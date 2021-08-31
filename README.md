@@ -1,2 +1,2 @@
-# Checkpoint-6-Git
-For our algo Sentence
+# Checkpoint_7_Algo
+For our algo sum and commun number
